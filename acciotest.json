@@ -1,4 +1,4 @@
 {
-    "testRepo": "solution-repo-name",
+    "testRepo": "usecontext-auth-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
